@@ -2,7 +2,7 @@
 
 ### Architecture
 
-![Tech Stack]()
+![Tech Stack](https://github.com/Ratchaphon1412/microservice/blob/main/docs/images/TechStack.png)
 
 ### Features
 
@@ -44,12 +44,12 @@
 
 #### Verify Email User
 
-![Verify Email User]()
+![Verify Email User](https://github.com/Ratchaphon1412/microservice/blob/main/docs/images/VerifyEmailFlow.png)
 
 #### Payment Omise
 
-![Payment]()
+![Payment](https://github.com/Ratchaphon1412/microservice/blob/main/docs/images/PaymentOmise.png)
 
 #### JWT with Kong API Gateway
 
-![JWT Kong]()
+![JWT Kong](https://github.com/Ratchaphon1412/microservice/blob/main/docs/images/JWTKong.png)
